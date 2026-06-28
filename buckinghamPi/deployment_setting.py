@@ -24,9 +24,9 @@ MIDDLEWARE = [
 ]
 
 
-#CORS_ALLOWED_ORIGINS = [
-#    'http://localhost:3000'
-#]
+CORS_ALLOWED_ORIGINS = [
+    'https://deploy-react-buckinghamedu-app.onrender.com'
+]
 
 STORAGES = {
     "staticfiles": {
