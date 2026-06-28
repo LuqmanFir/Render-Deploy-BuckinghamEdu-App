@@ -111,7 +111,7 @@ USE_TZ = True
 STATIC_URL = 'static/'
 
 CORS_ALLOWED_ORIGINS = [
-    'http://localhost:3000'
+    'https://deploy-react-buckinghamedu-app.onrender.com'
     
 ]
 
